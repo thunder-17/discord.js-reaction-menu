@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Juby210/discord.js-reaction-menu.git"
+    "url": "git+https://github.com/thunder-17/discord.js-reaction-menu.git"
   },
   "author": "Juby210",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Juby210/discord.js-reaction-menu/issues"
+    "url": "https://github.com/thunder-17/discord.js-reaction-menu/issues"
   },
-  "homepage": "https://github.com/Juby210/discord.js-reaction-menu#readme",
+  "homepage": "https://github.com/thunder-17/discord.js-reaction-menu#readme",
   "dependencies": {
     "discord.js": "^12.3.1"
   }
