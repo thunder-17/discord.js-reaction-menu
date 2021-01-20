@@ -20,10 +20,7 @@ module.exports = class Menu {
         this.reactions = reactions
         this.page = page
         this.catch = customCatch
-        message.reply(pages[page], { allowedMentions: {
-        repliedUser: false
-        }
-    }).then(msg => {
+        message.reply(pages[page]).then(msg => {
             this.msg = msg
             this.addReactions()
             this.createCollector(userID)
